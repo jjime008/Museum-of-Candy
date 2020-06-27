@@ -1,4 +1,13 @@
 body {
     font-family: "Nunito", sans-serif;
     background-color: #f5d9d5;
+    text-align: center;
+}
+
+h3 {
+    color: white;
+}
+
+.red {
+    color: red;
 }
