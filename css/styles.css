@@ -8,12 +8,16 @@ body {
     color: white;
 }
 
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color:#EA1C2C;
+}
+
 h3 {
     color: white;
 }
 
 .red {
-    color: rgb(234, 28, 44);
+    color: #EA1C2C;
 }
 
  .bg-light {
