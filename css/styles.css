@@ -4,6 +4,10 @@ body {
     text-align: center;
 }
 
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
 h3 {
     color: white;
 }
@@ -12,6 +16,6 @@ h3 {
     color: rgb(234, 28, 44);
 }
 
-.bg-light {
+ .bg-light {
     background: transparent !important;
 }
