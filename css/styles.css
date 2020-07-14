@@ -7,9 +7,6 @@ body {
 .navbar-brand {
     font-size: 1.5em;
 }
-#fixed-navbar{
-    /*font-size: 10em !important;*/
-}
 
 .navbar-light .navbar-nav .nav-link {
     color: white;
@@ -22,6 +19,8 @@ body {
 
 h1 {
     color: white;
+    font-size: 3rem;
+    font-weight: 100;
 }
 
 h2 {
