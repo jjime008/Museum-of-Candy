@@ -38,3 +38,7 @@ p {
  .bg-light {
     background: transparent !important;
 }
+
+#margin-override {
+    margin-top: 6.25rem;
+}
